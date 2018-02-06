@@ -1,5 +1,12 @@
 # UO Satellite 
 
+A repo to collect information about all of the various satellite data available.
+
+| Name | Spatial | Temporal | Source |
+| ---- | ------- | -------- | ------ |
+| Landsat 8 | 30m |	16 day	|	[EarthExplorer](https://earthexplorer.usgs.gov/) |
+
+
 ## The United States Geological Survey (USGS)
 
 Global Land Survey (GLS)
